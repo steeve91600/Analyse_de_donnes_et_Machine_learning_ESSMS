@@ -4,8 +4,16 @@ L'objectif est de faire une analyse de données et un system de machine learning
 **Définition d'un ESSMS** = Un ESSMS est un Établissement ou Service Social / Médico‑Social, c’est‑à‑dire une structure autorisée par les pouvoirs publics pour accompagner des personnes vulnérables (personnes âgées, handicapées, mineurs en danger, personnes en situation d’exclusion), en établissement ou à domicile.
 
 
-**Presentation des données**: il y a 19458 évaluations
+**Presentation des données**: il y a 19458 évaluations d'ESSMS
 
  **Source :** data.gouv
  
 **lien :** https://www.data.gouv.fr/datasets/resultats-devaluation-des-etablissements-et-services-sociaux-et-medico-sociaux-essms
+
+**Index du gitHub :**
+
+     -  Médicale_ESSMS.ipynb = > Code detaillé de l'analyse en python
+
+     - open_data_par_eval.xlsx = > Les données
+
+     - dictionnaire_variables.xlsx = > Guide des colonnes
