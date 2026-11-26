@@ -17,3 +17,12 @@ L'objectif est de faire une analyse de données et un system de machine learning
      - open_data_par_eval.xlsx = > Les données
 
      - dictionnaire_variables.xlsx = > Guide des colonnes
+
+
+**Sommaire**
+
+A. Analyse univariée 
+
+B. Analyse bivariée
+
+C. Machine Learning
